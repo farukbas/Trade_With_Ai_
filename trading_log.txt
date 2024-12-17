@@ -1,0 +1,739 @@
+2024-12-13 15:04:10,007 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:04:10,009 - Giriş Fiyatı: 0.437
+2024-12-13 15:05:10,383 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:05:10,383 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:05:10,383 - Giriş Fiyatı: 0.437
+2024-12-13 15:05:10,383 - Çıkış Fiyatı: 0.4386
+2024-12-13 15:05:10,383 - Kar/Zarar Yüzdesi: -0.36613272311212597%
+2024-12-13 15:05:10,384 - Kar/Zarar: -0.5664988558352284
+2024-12-13 15:05:10,384 - Toplam Kar: -0.5664988558352284
+2024-12-13 15:08:15,171 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:08:15,174 - Giriş Fiyatı: 0.4393
+2024-12-13 15:09:49,093 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:09:49,094 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:09:49,094 - Giriş Fiyatı: 0.4393
+2024-12-13 15:09:49,094 - Çıkış Fiyatı: 0.4409
+2024-12-13 15:09:49,094 - Kar/Zarar Yüzdesi: -0.36421579786022995%
+2024-12-13 15:09:49,094 - Kar/Zarar: -0.5645800136580859
+2024-12-13 15:09:49,094 - Toplam Kar: -1.1310788694933143
+2024-12-13 15:12:24,295 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:12:24,295 - Giriş Fiyatı: 0.44
+2024-12-13 15:15:17,859 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:15:17,859 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:15:17,859 - Giriş Fiyatı: 0.44
+2024-12-13 15:15:17,859 - Çıkış Fiyatı: 0.4416
+2024-12-13 15:15:17,859 - Kar/Zarar Yüzdesi: -0.3636363636363614%
+2024-12-13 15:15:17,859 - Kar/Zarar: -0.5639999999999961
+2024-12-13 15:15:17,859 - Toplam Kar: -1.6950788694933103
+2024-12-13 15:15:33,166 - Yeni Pozisyon: HBAR/USDT - SHORT
+2024-12-13 15:15:33,167 - Giriş Fiyatı: 0.32279
+2024-12-13 15:16:27,805 - Pozisyon Kapatıldı: HBAR/USDT
+2024-12-13 15:16:27,805 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:16:27,805 - Giriş Fiyatı: 0.32279
+2024-12-13 15:16:27,805 - Çıkış Fiyatı: 0.32396
+2024-12-13 15:16:27,805 - Kar/Zarar Yüzdesi: -0.36246476037052083%
+2024-12-13 15:16:27,805 - Kar/Zarar: -0.5628272251308847
+2024-12-13 15:16:27,805 - Toplam Kar: -2.257906094624195
+2024-12-13 15:16:44,853 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:16:44,853 - Giriş Fiyatı: 0.4411
+2024-12-13 15:17:04,095 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:17:04,095 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:17:04,095 - Giriş Fiyatı: 0.4411
+2024-12-13 15:17:04,095 - Çıkış Fiyatı: 0.443
+2024-12-13 15:17:04,095 - Kar/Zarar Yüzdesi: -0.43074132849694236%
+2024-12-13 15:17:04,095 - Kar/Zarar: -0.6311720698254326
+2024-12-13 15:17:04,095 - Toplam Kar: -2.8890781644496277
+2024-12-13 15:23:31,852 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:23:31,858 - Giriş Fiyatı: 0.454
+2024-12-13 15:24:21,697 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:24:21,697 - Kapatma Nedeni: Kar Alma
+2024-12-13 15:24:21,697 - Giriş Fiyatı: 0.454
+2024-12-13 15:24:21,697 - Çıkış Fiyatı: 0.4515
+2024-12-13 15:24:21,697 - Kar/Zarar Yüzdesi: 0.5506607929515424%
+2024-12-13 15:24:21,697 - Kar/Zarar: 0.35121145374449836
+2024-12-13 15:24:21,697 - Toplam Kar: 0.35121145374449836
+2024-12-13 15:27:36,032 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:27:36,033 - Giriş Fiyatı: 0.4541
+2024-12-13 15:31:04,267 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:31:04,267 - Kapatma Nedeni: Kar Alma
+2024-12-13 15:31:04,267 - Giriş Fiyatı: 0.4541
+2024-12-13 15:31:04,267 - Çıkış Fiyatı: 0.4509
+2024-12-13 15:31:04,267 - Kar/Zarar Yüzdesi: 0.7046905967848449%
+2024-12-13 15:31:04,267 - Kar/Zarar: 0.505395287381628
+2024-12-13 15:31:04,267 - Toplam Kar: 0.8566067411261263
+2024-12-13 15:31:10,202 - Yeni Pozisyon: XLM/USDT - SHORT
+2024-12-13 15:31:10,202 - Giriş Fiyatı: 0.4394
+2024-12-13 15:31:56,652 - Yeni Pozisyon: ALGO/USDT - SHORT
+2024-12-13 15:31:56,652 - Giriş Fiyatı: 0.4488
+2024-12-13 15:32:45,137 - Pozisyon Kapatıldı: XLM/USDT
+2024-12-13 15:32:45,137 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:32:45,137 - Giriş Fiyatı: 0.4394
+2024-12-13 15:32:45,137 - Çıkış Fiyatı: 0.4411
+2024-12-13 15:32:45,138 - Kar/Zarar Yüzdesi: -0.38689121529357745%
+2024-12-13 15:32:45,138 - Kar/Zarar: -0.587278106508867
+2024-12-13 15:32:45,138 - Toplam Kar: 0.2693286346172593
+2024-12-13 15:32:59,907 - Pozisyon Kapatıldı: ALGO/USDT
+2024-12-13 15:32:59,907 - Kapatma Nedeni: Stop Loss
+2024-12-13 15:32:59,907 - Giriş Fiyatı: 0.4488
+2024-12-13 15:32:59,908 - Çıkış Fiyatı: 0.4508
+2024-12-13 15:32:59,908 - Kar/Zarar Yüzdesi: -0.4456327985739755%
+2024-12-13 15:32:59,908 - Kar/Zarar: -0.6460784313725558
+2024-12-13 15:32:59,908 - Toplam Kar: -0.3767497967552965
+2024-12-13 15:33:42,752 - Yeni Pozisyon: IO/USDT - LONG
+2024-12-13 15:33:42,752 - Giriş Fiyatı: 4.159
+2024-12-13 15:43:57,531 - Pozisyon Kapatıldı: IO/USDT
+2024-12-13 15:43:57,532 - Kapatma Nedeni: Kar Alma
+2024-12-13 15:43:57,532 - Giriş Fiyatı: 4.159
+2024-12-13 15:43:57,532 - Çıkış Fiyatı: 4.18
+2024-12-13 15:43:57,532 - Kar/Zarar Yüzdesi: 0.5049290694878554%
+2024-12-13 15:43:57,532 - Kar/Zarar: 0.30442414041835586
+2024-12-13 15:43:57,532 - Toplam Kar: -0.07232565633694066
+2024-12-13 16:23:06,881 - Yeni Pozisyon: SOL/USDT - LONG
+2024-12-13 16:23:06,881 - Giriş Fiyatı: 223.65
+2024-12-13 16:28:44,545 - Yeni Pozisyon: APT/USDT - LONG
+2024-12-13 16:28:44,546 - Giriş Fiyatı: 14.04
+2024-12-13 16:28:51,379 - Yeni Pozisyon: TIA/USDT - LONG
+2024-12-13 16:28:51,379 - Giriş Fiyatı: 7.178
+2024-12-13 16:32:11,260 - Pozisyon Kapatıldı: TIA/USDT
+2024-12-13 16:32:11,261 - Kapatma Nedeni: Kar Alma
+2024-12-13 16:32:11,261 - Giriş Fiyatı: 7.178
+2024-12-13 16:32:11,261 - Çıkış Fiyatı: 7.218
+2024-12-13 16:32:11,261 - Kar/Zarar Yüzdesi: 0.5572582892170527%
+2024-12-13 16:32:11,261 - Kar/Zarar: 0.3567010309278289
+2024-12-13 16:32:11,261 - Toplam Kar: 0.28437537459088824
+2024-12-13 16:34:24,527 - Yeni Pozisyon: FTT/USDT - LONG
+2024-12-13 16:34:24,527 - Giriş Fiyatı: 2.9212
+2024-12-13 16:37:53,792 - Pozisyon Kapatıldı: FTT/USDT
+2024-12-13 16:37:53,793 - Kapatma Nedeni: Stop Loss
+2024-12-13 16:37:53,793 - Giriş Fiyatı: 2.9212
+2024-12-13 16:37:53,793 - Çıkış Fiyatı: 2.9107
+2024-12-13 16:37:53,793 - Kar/Zarar Yüzdesi: -0.3594413254826768%
+2024-12-13 16:37:53,793 - Kar/Zarar: -0.559081884157195
+2024-12-13 16:37:53,793 - Toplam Kar: -0.2747065095663067
+2024-12-13 16:38:07,207 - Pozisyon Kapatıldı: SOL/USDT
+2024-12-13 16:38:07,207 - Kapatma Nedeni: Zaman Aşımı
+2024-12-13 16:38:07,207 - Giriş Fiyatı: 223.65
+2024-12-13 16:38:07,207 - Çıkış Fiyatı: 223.05
+2024-12-13 16:38:07,207 - Kar/Zarar Yüzdesi: -0.2682763246143502%
+2024-12-13 16:38:07,207 - Kar/Zarar: -0.46800804828973364
+2024-12-13 16:38:07,207 - Toplam Kar: -0.7427145578560403
+2024-12-13 16:40:04,304 - Yeni Pozisyon: STRK/USDT - LONG
+2024-12-13 16:40:04,305 - Giriş Fiyatı: 0.641
+2024-12-13 16:41:45,744 - Yeni Pozisyon: SOL/USDT - LONG
+2024-12-13 16:41:45,744 - Giriş Fiyatı: 222.63
+2024-12-13 16:42:33,072 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 16:42:33,073 - Giriş Fiyatı: 1.1485
+2024-12-13 16:43:43,153 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 16:43:43,153 - Giriş Fiyatı: 0.016098
+2024-12-13 16:43:45,592 - Pozisyon Kapatıldı: APT/USDT
+2024-12-13 16:43:45,592 - Kapatma Nedeni: Zaman Aşımı
+2024-12-13 16:43:45,592 - Giriş Fiyatı: 14.04
+2024-12-13 16:43:45,592 - Çıkış Fiyatı: 14.04
+2024-12-13 16:43:45,592 - Kar/Zarar Yüzdesi: 0.0%
+2024-12-13 16:43:45,592 - Kar/Zarar: -0.2
+2024-12-13 16:43:45,592 - Toplam Kar: -0.9427145578560403
+2024-12-13 16:43:48,526 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 16:43:48,527 - Kapatma Nedeni: Kar Alma
+2024-12-13 16:43:48,527 - Giriş Fiyatı: 1.1485
+2024-12-13 16:43:48,527 - Çıkış Fiyatı: 1.1544
+2024-12-13 16:43:48,527 - Kar/Zarar Yüzdesi: 0.5137135393992177%
+2024-12-13 16:43:48,527 - Kar/Zarar: 0.3131998258598062
+2024-12-13 16:43:48,527 - Toplam Kar: -0.6295147319962341
+2024-12-13 16:45:00,516 - Pozisyon Kapatıldı: STRK/USDT
+2024-12-13 16:45:00,516 - Kapatma Nedeni: Kar Alma
+2024-12-13 16:45:00,517 - Giriş Fiyatı: 0.641
+2024-12-13 16:45:00,517 - Çıkış Fiyatı: 0.6443
+2024-12-13 16:45:00,517 - Kar/Zarar Yüzdesi: 0.5148205928237082%
+2024-12-13 16:45:00,517 - Kar/Zarar: 0.31430577223088674
+2024-12-13 16:45:00,517 - Toplam Kar: -0.31520895976534735
+2024-12-13 16:47:28,606 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 16:47:28,611 - Kapatma Nedeni: Kar Alma
+2024-12-13 16:47:28,611 - Giriş Fiyatı: 0.016098
+2024-12-13 16:47:28,611 - Çıkış Fiyatı: 0.016185
+2024-12-13 16:47:28,611 - Kar/Zarar Yüzdesi: 0.5404398061871056%
+2024-12-13 16:47:28,611 - Kar/Zarar: 0.3398993663809221
+2024-12-13 16:47:28,611 - Toplam Kar: 0.024690406615574756
+2024-12-13 16:49:54,734 - Pozisyon Kapatıldı: SOL/USDT
+2024-12-13 16:49:54,735 - Kapatma Nedeni: Bilinmeyen Neden
+2024-12-13 16:49:54,735 - Giriş Fiyatı: 222.63
+2024-12-13 16:49:54,735 - Çıkış Fiyatı: 223.69
+2024-12-13 16:49:54,735 - Kar/Zarar Yüzdesi: 0.47612630822440927%
+2024-12-13 16:49:54,735 - Kar/Zarar: 0.27565018191618407
+2024-12-13 16:49:54,735 - Toplam Kar: 0.3003405885317588
+2024-12-13 16:58:16,311 - Yeni Pozisyon: IO/USDT - LONG
+2024-12-13 16:58:16,312 - Giriş Fiyatı: 4.13
+2024-12-13 17:00:06,433 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:00:06,433 - Giriş Fiyatı: 1.1424
+2024-12-13 17:00:47,724 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:00:47,724 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:00:47,725 - Giriş Fiyatı: 1.1424
+2024-12-13 17:00:47,725 - Çıkış Fiyatı: 1.1354
+2024-12-13 17:00:47,725 - Kar/Zarar Yüzdesi: -0.6127450980392259%
+2024-12-13 17:00:47,725 - Kar/Zarar: -0.8121323529411876
+2024-12-13 17:00:47,725 - Toplam Kar: -0.5117917644094288
+2024-12-13 17:01:15,051 - Pozisyon Kapatıldı: IO/USDT
+2024-12-13 17:01:15,052 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:01:15,052 - Giriş Fiyatı: 4.13
+2024-12-13 17:01:15,052 - Çıkış Fiyatı: 4.115
+2024-12-13 17:01:15,052 - Kar/Zarar Yüzdesi: -0.36319612590798256%
+2024-12-13 17:01:15,052 - Kar/Zarar: -0.5628329297820821
+2024-12-13 17:01:15,052 - Toplam Kar: -1.074624694191511
+2024-12-13 17:02:35,630 - Yeni Pozisyon: IO/USDT - LONG
+2024-12-13 17:02:35,630 - Giriş Fiyatı: 4.135
+2024-12-13 17:04:26,092 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:04:26,092 - Giriş Fiyatı: 1.1391
+2024-12-13 17:04:35,079 - Pozisyon Kapatıldı: IO/USDT
+2024-12-13 17:04:35,079 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:04:35,079 - Giriş Fiyatı: 4.135
+2024-12-13 17:04:35,079 - Çıkış Fiyatı: 4.12
+2024-12-13 17:04:35,080 - Kar/Zarar Yüzdesi: -0.36275695284158843%
+2024-12-13 17:04:35,080 - Kar/Zarar: -0.5623941958887374
+2024-12-13 17:04:35,080 - Toplam Kar: -1.6370188900802485
+2024-12-13 17:05:02,894 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:05:02,894 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:05:02,894 - Giriş Fiyatı: 1.1391
+2024-12-13 17:05:02,894 - Çıkış Fiyatı: 1.1349
+2024-12-13 17:05:02,894 - Kar/Zarar Yüzdesi: -0.3687121411640753%
+2024-12-13 17:05:02,894 - Kar/Zarar: -0.5683434290229176
+2024-12-13 17:05:02,894 - Toplam Kar: -2.205362319103166
+2024-12-13 17:05:18,826 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:05:18,826 - Giriş Fiyatı: 0.015757
+2024-12-13 17:07:03,081 - Yeni Pozisyon: IO/USDT - LONG
+2024-12-13 17:07:03,081 - Giriş Fiyatı: 4.122
+2024-12-13 17:08:58,501 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:08:58,502 - Giriş Fiyatı: 1.1353
+2024-12-13 17:09:32,683 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:09:32,683 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:09:32,683 - Giriş Fiyatı: 1.1353
+2024-12-13 17:09:32,683 - Çıkış Fiyatı: 1.1313
+2024-12-13 17:09:32,683 - Kar/Zarar Yüzdesi: -0.3523297806747119%
+2024-12-13 17:09:32,683 - Kar/Zarar: -0.5519774508940476
+2024-12-13 17:09:32,684 - Toplam Kar: -2.7573397699972135
+2024-12-13 17:13:04,718 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:13:04,718 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:13:04,718 - Giriş Fiyatı: 0.015757
+2024-12-13 17:13:04,718 - Çıkış Fiyatı: 0.015837
+2024-12-13 17:13:04,718 - Kar/Zarar Yüzdesi: 0.507710858665991%
+2024-12-13 17:13:04,718 - Kar/Zarar: 0.30720314780732155
+2024-12-13 17:13:04,718 - Toplam Kar: -2.450136622189892
+2024-12-13 17:13:45,088 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:13:45,088 - Giriş Fiyatı: 1.1289
+2024-12-13 17:14:42,519 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:14:42,520 - Giriş Fiyatı: 0.015815
+2024-12-13 17:15:19,897 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:15:19,898 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:15:19,899 - Giriş Fiyatı: 1.1289
+2024-12-13 17:15:19,899 - Çıkış Fiyatı: 1.1348
+2024-12-13 17:15:19,899 - Kar/Zarar Yüzdesi: 0.5226326512534339%
+2024-12-13 17:15:19,899 - Kar/Zarar: 0.3221100186021779
+2024-12-13 17:15:19,899 - Toplam Kar: -2.1280266035877142
+2024-12-13 17:18:35,352 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:18:35,352 - Giriş Fiyatı: 1.1302
+2024-12-13 17:18:49,603 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:18:49,603 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:18:49,604 - Giriş Fiyatı: 0.015815
+2024-12-13 17:18:49,604 - Çıkış Fiyatı: 0.01574
+2024-12-13 17:18:49,604 - Kar/Zarar Yüzdesi: -0.47423332279480673%
+2024-12-13 17:18:49,604 - Kar/Zarar: -0.6737590894720217
+2024-12-13 17:18:49,604 - Toplam Kar: -2.801785693059736
+2024-12-13 17:19:35,306 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:19:35,308 - Giriş Fiyatı: 0.015793
+2024-12-13 17:20:59,507 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:20:59,508 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:20:59,508 - Giriş Fiyatı: 1.1302
+2024-12-13 17:20:59,508 - Çıkış Fiyatı: 1.137
+2024-12-13 17:20:59,508 - Kar/Zarar Yüzdesi: 0.6016634224031071%
+2024-12-13 17:20:59,509 - Kar/Zarar: 0.40106175898070345
+2024-12-13 17:20:59,509 - Toplam Kar: -2.4007239340790325
+2024-12-13 17:21:35,401 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:21:35,401 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:21:35,401 - Giriş Fiyatı: 0.015793
+2024-12-13 17:21:35,401 - Çıkış Fiyatı: 0.015884
+2024-12-13 17:21:35,401 - Kar/Zarar Yüzdesi: 0.5762046476286793%
+2024-12-13 17:21:35,401 - Kar/Zarar: 0.37562844298105685
+2024-12-13 17:21:35,401 - Toplam Kar: -2.0250954910979755
+2024-12-13 17:22:45,638 - Pozisyon Kapatıldı: IO/USDT
+2024-12-13 17:22:45,638 - Kapatma Nedeni: Zaman Aşımı
+2024-12-13 17:22:45,639 - Giriş Fiyatı: 4.122
+2024-12-13 17:22:45,639 - Çıkış Fiyatı: 4.113
+2024-12-13 17:22:45,639 - Kar/Zarar Yüzdesi: -0.2183406113536985%
+2024-12-13 17:22:45,639 - Kar/Zarar: -0.4181222707423424
+2024-12-13 17:22:45,639 - Toplam Kar: -2.4432177618403177
+2024-12-13 17:23:20,041 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:23:20,041 - Giriş Fiyatı: 1.1361
+2024-12-13 17:24:12,600 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:24:12,600 - Giriş Fiyatı: 0.015844
+2024-12-13 17:24:31,942 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:24:31,946 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:24:31,946 - Giriş Fiyatı: 0.015844
+2024-12-13 17:24:31,946 - Çıkış Fiyatı: 0.015784
+2024-12-13 17:24:31,946 - Kar/Zarar Yüzdesi: -0.3786922494319681%
+2024-12-13 17:24:31,946 - Kar/Zarar: -0.578313557182532
+2024-12-13 17:24:31,946 - Toplam Kar: -3.0215313190228494
+2024-12-13 17:25:23,124 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:25:23,125 - Kapatma Nedeni: Stop Loss
+2024-12-13 17:25:23,125 - Giriş Fiyatı: 1.1361
+2024-12-13 17:25:23,125 - Çıkış Fiyatı: 1.1319
+2024-12-13 17:25:23,125 - Kar/Zarar Yüzdesi: -0.3696857670979846%
+2024-12-13 17:25:23,125 - Kar/Zarar: -0.5693160813308787
+2024-12-13 17:25:23,125 - Toplam Kar: -3.590847400353728
+2024-12-13 17:25:54,039 - Yeni Pozisyon: IO/USDT - LONG
+2024-12-13 17:25:54,039 - Giriş Fiyatı: 4.098
+2024-12-13 17:27:06,730 - Yeni Pozisyon: SOL/USDT - LONG
+2024-12-13 17:27:06,730 - Giriş Fiyatı: 222.46
+2024-12-13 17:27:43,025 - Yeni Pozisyon: LINK/USDT - LONG
+2024-12-13 17:27:43,025 - Giriş Fiyatı: 27.94
+2024-12-13 17:27:45,445 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:27:45,446 - Giriş Fiyatı: 1.1325
+2024-12-13 17:28:54,735 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:28:54,736 - Giriş Fiyatı: 0.015667
+2024-12-13 17:28:57,142 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:28:59,533 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:01,913 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:04,299 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:06,760 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:09,229 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:11,694 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:14,177 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:18,925 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:21,419 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:23,881 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:26,270 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:28,652 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:31,036 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:33,425 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:35,810 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:38,199 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:40,665 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:43,131 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:45,601 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:48,078 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:52,930 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:55,418 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:29:57,886 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:00,270 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:02,650 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:05,036 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:07,421 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:09,807 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:12,191 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:14,655 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:17,125 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:20,523 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:23,026 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:27,858 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:30,323 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:32,773 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:35,163 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:37,549 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:39,933 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:42,316 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:44,714 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:47,102 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:49,558 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:52,000 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:54,451 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:30:56,892 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:31:01,916 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:31:04,364 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 17:32:11,291 - Pozisyon Kapatıldı: LINK/USDT
+2024-12-13 17:32:11,291 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:32:11,291 - Giriş Fiyatı: 27.94
+2024-12-13 17:32:11,291 - Çıkış Fiyatı: 28.14
+2024-12-13 17:32:11,292 - Kar/Zarar Yüzdesi: 0.7158196134574062%
+2024-12-13 17:32:11,292 - Kar/Zarar: 0.5151037938439552
+2024-12-13 17:32:11,292 - Toplam Kar: -3.0757436065097727
+2024-12-13 17:32:11,532 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:32:11,533 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:32:11,533 - Giriş Fiyatı: 0.015667
+2024-12-13 17:32:11,533 - Çıkış Fiyatı: 0.015781
+2024-12-13 17:32:11,533 - Kar/Zarar Yüzdesi: 0.7276440926788761%
+2024-12-13 17:32:11,533 - Kar/Zarar: 0.5269164485861935
+2024-12-13 17:32:11,533 - Toplam Kar: -2.5488271579235793
+2024-12-13 17:32:16,744 - Pozisyon Kapatıldı: IO/USDT
+2024-12-13 17:32:16,744 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:32:16,744 - Giriş Fiyatı: 4.098
+2024-12-13 17:32:16,744 - Çıkış Fiyatı: 4.12
+2024-12-13 17:32:16,744 - Kar/Zarar Yüzdesi: 0.536847242557351%
+2024-12-13 17:32:16,744 - Kar/Zarar: 0.33631039531479984
+2024-12-13 17:32:16,744 - Toplam Kar: -2.2125167626087796
+2024-12-13 17:33:23,069 - Pozisyon Kapatıldı: SOL/USDT
+2024-12-13 17:33:23,069 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:33:23,069 - Giriş Fiyatı: 222.46
+2024-12-13 17:33:23,070 - Çıkış Fiyatı: 223.62
+2024-12-13 17:33:23,070 - Kar/Zarar Yüzdesi: 0.5214420569990095%
+2024-12-13 17:33:23,070 - Kar/Zarar: 0.32092061494200785
+2024-12-13 17:33:23,070 - Toplam Kar: -1.8915961476667718
+2024-12-13 17:33:47,634 - Yeni Pozisyon: XVG/USDT - LONG
+2024-12-13 17:33:47,634 - Giriş Fiyatı: 0.015844
+2024-12-13 17:36:52,233 - Pozisyon Kapatıldı: XVG/USDT
+2024-12-13 17:36:52,234 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:36:52,234 - Giriş Fiyatı: 0.015844
+2024-12-13 17:36:52,234 - Çıkış Fiyatı: 0.01594
+2024-12-13 17:36:52,234 - Kar/Zarar Yüzdesi: 0.6059075990911315%
+2024-12-13 17:36:52,234 - Kar/Zarar: 0.4053016914920342
+2024-12-13 17:36:52,234 - Toplam Kar: -1.4862944561747375
+2024-12-13 17:36:58,405 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:36:58,405 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:36:58,405 - Giriş Fiyatı: 1.1325
+2024-12-13 17:36:58,405 - Çıkış Fiyatı: 1.1388
+2024-12-13 17:36:58,405 - Kar/Zarar Yüzdesi: 0.5562913907284743%
+2024-12-13 17:36:58,405 - Kar/Zarar: 0.3557350993377468
+2024-12-13 17:36:58,405 - Toplam Kar: -1.1305593568369907
+2024-12-13 17:37:28,082 - Yeni Pozisyon: CRV/USDT - LONG
+2024-12-13 17:37:28,082 - Giriş Fiyatı: 1.136
+2024-12-13 17:41:14,410 - Pozisyon Kapatıldı: CRV/USDT
+2024-12-13 17:41:14,410 - Kapatma Nedeni: Kar Alma
+2024-12-13 17:41:14,411 - Giriş Fiyatı: 1.136
+2024-12-13 17:41:14,411 - Çıkış Fiyatı: 1.1418
+2024-12-13 17:41:14,411 - Kar/Zarar Yüzdesi: 0.5105633802816926%
+2024-12-13 17:41:14,411 - Kar/Zarar: 0.3100528169014137
+2024-12-13 17:41:14,411 - Toplam Kar: -0.8205065399355771
+2024-12-13 18:58:10,424 - Yeni Pozisyon: TON/USDT - LONG
+2024-12-13 18:58:10,433 - Giriş Fiyatı: 6.25
+2024-12-13 19:00:33,125 - Yeni Pozisyon: ADA/USDT - LONG
+2024-12-13 19:00:33,127 - Giriş Fiyatı: 1.0899
+2024-12-13 19:00:49,007 - Yeni Pozisyon: DOT/USDT - LONG
+2024-12-13 19:00:49,007 - Giriş Fiyatı: 8.889
+2024-12-13 19:01:18,360 - Yeni Pozisyon: WIF/USDT - LONG
+2024-12-13 19:01:18,360 - Giriş Fiyatı: 2.883
+2024-12-13 19:01:34,181 - Yeni Pozisyon: ENA/USDT - LONG
+2024-12-13 19:01:34,182 - Giriş Fiyatı: 0.9918
+2024-12-13 19:01:36,720 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:39,163 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:41,606 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:44,044 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:48,925 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:51,352 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:53,786 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:56,226 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:01:58,670 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:02:01,117 - Pozisyon Kapatıldı: DOT/USDT
+2024-12-13 19:02:01,117 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:02:01,117 - Giriş Fiyatı: 8.889
+2024-12-13 19:02:01,118 - Çıkış Fiyatı: 8.854
+2024-12-13 19:02:01,118 - Kar/Zarar Yüzdesi: -0.3937450781865243%
+2024-12-13 19:02:01,118 - Kar/Zarar: -0.5933513331083259
+2024-12-13 19:02:01,118 - Toplam Kar: -1.413857873043903
+2024-12-13 19:02:04,045 - Pozisyon Kapatıldı: ADA/USDT
+2024-12-13 19:02:04,045 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:02:04,045 - Giriş Fiyatı: 1.0899
+2024-12-13 19:02:04,045 - Çıkış Fiyatı: 1.0855
+2024-12-13 19:02:04,046 - Kar/Zarar Yüzdesi: -0.4037067620882816%
+2024-12-13 19:02:04,046 - Kar/Zarar: -0.6033030553261883
+2024-12-13 19:02:04,046 - Toplam Kar: -2.0171609283700915
+2024-12-13 19:02:04,282 - Pozisyon Kapatıldı: WIF/USDT
+2024-12-13 19:02:04,282 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:02:04,282 - Giriş Fiyatı: 2.883
+2024-12-13 19:02:04,282 - Çıkış Fiyatı: 2.871
+2024-12-13 19:02:04,282 - Kar/Zarar Yüzdesi: -0.41623309053069757%
+2024-12-13 19:02:04,282 - Kar/Zarar: -0.6158168574401652
+2024-12-13 19:02:04,282 - Toplam Kar: -2.6329777858102568
+2024-12-13 19:02:04,518 - Pozisyon Kapatıldı: ENA/USDT
+2024-12-13 19:02:04,518 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:02:04,518 - Giriş Fiyatı: 0.9918
+2024-12-13 19:02:04,518 - Çıkış Fiyatı: 0.9876
+2024-12-13 19:02:04,518 - Kar/Zarar Yüzdesi: -0.4234724742891693%
+2024-12-13 19:02:04,519 - Kar/Zarar: -0.6230490018148809
+2024-12-13 19:02:04,519 - Toplam Kar: -3.256026787625138
+2024-12-13 19:02:11,155 - Yeni Pozisyon: FLOKI/USDT - LONG
+2024-12-13 19:02:11,155 - Giriş Fiyatı: 0.00023645
+2024-12-13 19:02:15,592 - Yeni Pozisyon: BOME/USDT - LONG
+2024-12-13 19:02:15,593 - Giriş Fiyatı: 0.008242
+2024-12-13 19:02:18,051 - Yeni Pozisyon: POL/USDT - LONG
+2024-12-13 19:02:18,051 - Giriş Fiyatı: 0.6114
+2024-12-13 19:02:48,108 - Yeni Pozisyon: INJ/USDT - LONG
+2024-12-13 19:02:48,109 - Giriş Fiyatı: 28.58
+2024-12-13 19:02:50,555 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:02:53,002 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:02:57,794 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:00,253 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:02,716 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:05,109 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:07,492 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:09,871 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:12,295 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:14,718 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:17,146 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:19,587 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:22,043 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:24,511 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:26,967 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:31,817 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:34,275 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:36,737 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:39,190 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:41,642 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:44,091 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:46,523 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:48,952 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:51,377 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:53,808 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:56,253 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:03:58,699 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:01,146 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:05,636 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:08,075 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:10,506 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:12,950 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:04:15,390 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:05:22,350 - Pozisyon Kapatıldı: INJ/USDT
+2024-12-13 19:05:22,350 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:05:22,350 - Giriş Fiyatı: 28.58
+2024-12-13 19:05:22,350 - Çıkış Fiyatı: 28.42
+2024-12-13 19:05:22,350 - Kar/Zarar Yüzdesi: -0.5598320503848726%
+2024-12-13 19:05:22,350 - Kar/Zarar: -0.7592722183344849
+2024-12-13 19:05:22,350 - Toplam Kar: -4.015299005959623
+2024-12-13 19:05:36,040 - Pozisyon Kapatıldı: BOME/USDT
+2024-12-13 19:05:36,040 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:05:36,040 - Giriş Fiyatı: 0.008242
+2024-12-13 19:05:36,040 - Çıkış Fiyatı: 0.00821
+2024-12-13 19:05:36,040 - Kar/Zarar Yüzdesi: -0.3882552778451716%
+2024-12-13 19:05:36,040 - Kar/Zarar: -0.5878670225673301
+2024-12-13 19:05:36,041 - Toplam Kar: -4.603166028526953
+2024-12-13 19:05:36,281 - Pozisyon Kapatıldı: POL/USDT
+2024-12-13 19:05:36,282 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:05:36,282 - Giriş Fiyatı: 0.6114
+2024-12-13 19:05:36,282 - Çıkış Fiyatı: 0.6092
+2024-12-13 19:05:36,282 - Kar/Zarar Yüzdesi: -0.359829898593407%
+2024-12-13 19:05:36,282 - Kar/Zarar: -0.5594700686948244
+2024-12-13 19:05:36,282 - Toplam Kar: -5.162636097221777
+2024-12-13 19:06:14,679 - Pozisyon Kapatıldı: TON/USDT
+2024-12-13 19:06:14,679 - Kapatma Nedeni: Bilinmeyen Neden
+2024-12-13 19:06:14,679 - Giriş Fiyatı: 6.25
+2024-12-13 19:06:14,679 - Çıkış Fiyatı: 6.231
+2024-12-13 19:06:14,679 - Kar/Zarar Yüzdesi: -0.30400000000000205%
+2024-12-13 19:06:14,680 - Kar/Zarar: -0.503696000000002
+2024-12-13 19:06:14,680 - Toplam Kar: -5.66633209722178
+2024-12-13 19:06:25,586 - Yeni Pozisyon: WIF/USDT - LONG
+2024-12-13 19:06:25,587 - Giriş Fiyatı: 2.852
+2024-12-13 19:06:38,867 - Yeni Pozisyon: ENA/USDT - LONG
+2024-12-13 19:06:38,868 - Giriş Fiyatı: 0.9861
+2024-12-13 19:06:53,100 - Pozisyon Kapatıldı: FLOKI/USDT
+2024-12-13 19:06:53,100 - Kapatma Nedeni: Bilinmeyen Neden
+2024-12-13 19:06:53,100 - Giriş Fiyatı: 0.00023645
+2024-12-13 19:06:53,100 - Çıkış Fiyatı: 0.00023751
+2024-12-13 19:06:53,100 - Kar/Zarar Yüzdesi: 0.44829773736519063%
+2024-12-13 19:06:53,100 - Kar/Zarar: 0.24784943962782968
+2024-12-13 19:06:53,100 - Toplam Kar: -5.41848265759395
+2024-12-13 19:06:58,289 - Yeni Pozisyon: ORDI/USDT - LONG
+2024-12-13 19:06:58,289 - Giriş Fiyatı: 35.46
+2024-12-13 19:07:15,450 - Pozisyon Kapatıldı: WIF/USDT
+2024-12-13 19:07:15,450 - Kapatma Nedeni: Bilinmeyen Neden
+2024-12-13 19:07:15,450 - Giriş Fiyatı: 2.852
+2024-12-13 19:07:15,450 - Çıkış Fiyatı: 2.863
+2024-12-13 19:07:15,450 - Kar/Zarar Yüzdesi: 0.3856942496493731%
+2024-12-13 19:07:15,450 - Kar/Zarar: 0.18530855539972646
+2024-12-13 19:07:15,450 - Toplam Kar: -5.233174102194224
+2024-12-13 19:07:58,303 - Yeni Pozisyon: TON/USDT - LONG
+2024-12-13 19:07:58,303 - Giriş Fiyatı: 6.257
+2024-12-13 19:10:25,455 - Pozisyon Kapatıldı: ENA/USDT
+2024-12-13 19:10:25,456 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:10:25,456 - Giriş Fiyatı: 0.9861
+2024-12-13 19:10:25,456 - Çıkış Fiyatı: 0.9911
+2024-12-13 19:10:25,456 - Kar/Zarar Yüzdesi: 0.5070479667376538%
+2024-12-13 19:10:25,456 - Kar/Zarar: 0.306540918770907
+2024-12-13 19:10:25,456 - Toplam Kar: -4.926633183423316
+2024-12-13 19:11:34,851 - Yeni Pozisyon: ENA/USDT - LONG
+2024-12-13 19:11:34,851 - Giriş Fiyatı: 0.99
+2024-12-13 19:12:47,556 - Yeni Pozisyon: 1000SATS/USDT - LONG
+2024-12-13 19:12:47,556 - Giriş Fiyatı: 0.0002288
+2024-12-13 19:15:27,257 - Pozisyon Kapatıldı: ORDI/USDT
+2024-12-13 19:15:27,257 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:15:27,257 - Giriş Fiyatı: 35.46
+2024-12-13 19:15:27,257 - Çıkış Fiyatı: 35.68
+2024-12-13 19:15:27,257 - Kar/Zarar Yüzdesi: 0.620417371686404%
+2024-12-13 19:15:27,257 - Kar/Zarar: 0.41979695431471414
+2024-12-13 19:15:27,257 - Toplam Kar: -4.506836229108602
+2024-12-13 19:17:04,468 - Pozisyon Kapatıldı: 1000SATS/USDT
+2024-12-13 19:17:04,468 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:17:04,468 - Giriş Fiyatı: 0.0002288
+2024-12-13 19:17:04,468 - Çıkış Fiyatı: 0.00023
+2024-12-13 19:17:04,468 - Kar/Zarar Yüzdesi: 0.5244755244755254%
+2024-12-13 19:17:04,468 - Kar/Zarar: 0.3239510489510584
+2024-12-13 19:17:04,468 - Toplam Kar: -4.182885180157544
+2024-12-13 19:17:05,191 - Yeni Pozisyon: ORDI/USDT - LONG
+2024-12-13 19:17:05,191 - Giriş Fiyatı: 35.71
+2024-12-13 19:17:26,809 - Pozisyon Kapatıldı: TON/USDT
+2024-12-13 19:17:26,809 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:17:26,809 - Giriş Fiyatı: 6.257
+2024-12-13 19:17:26,809 - Çıkış Fiyatı: 6.29
+2024-12-13 19:17:26,809 - Kar/Zarar Yüzdesi: 0.5274093015822336%
+2024-12-13 19:17:26,809 - Kar/Zarar: 0.32688189228064235
+2024-12-13 19:17:26,809 - Toplam Kar: -3.8560032878769013
+2024-12-13 19:17:58,539 - Yeni Pozisyon: 1000SATS/USDT - LONG
+2024-12-13 19:17:58,540 - Giriş Fiyatı: 0.0002298
+2024-12-13 19:20:28,287 - Pozisyon Kapatıldı: ENA/USDT
+2024-12-13 19:20:28,288 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:20:28,288 - Giriş Fiyatı: 0.99
+2024-12-13 19:20:28,288 - Çıkış Fiyatı: 0.9861
+2024-12-13 19:20:28,288 - Kar/Zarar Yüzdesi: -0.3939393939393954%
+2024-12-13 19:20:28,288 - Kar/Zarar: -0.5935454545454515
+2024-12-13 19:20:28,288 - Toplam Kar: -4.449548742422353
+2024-12-13 19:20:28,519 - Pozisyon Kapatıldı: ORDI/USDT
+2024-12-13 19:20:28,519 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:20:28,519 - Giriş Fiyatı: 35.71
+2024-12-13 19:20:28,519 - Çıkış Fiyatı: 35.46
+2024-12-13 19:20:28,519 - Kar/Zarar Yüzdesi: -0.7000840100812097%
+2024-12-13 19:20:28,519 - Kar/Zarar: -0.8993839260711315
+2024-12-13 19:20:28,519 - Toplam Kar: -5.348932668493484
+2024-12-13 19:20:28,751 - Pozisyon Kapatıldı: 1000SATS/USDT
+2024-12-13 19:20:28,752 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:20:28,752 - Giriş Fiyatı: 0.0002298
+2024-12-13 19:20:28,752 - Çıkış Fiyatı: 0.0002285
+2024-12-13 19:20:28,752 - Kar/Zarar Yüzdesi: -0.5657093124456068%
+2024-12-13 19:20:28,752 - Kar/Zarar: -0.7651436031331598
+2024-12-13 19:20:28,752 - Toplam Kar: -6.114076271626644
+2024-12-13 19:21:28,755 - Yeni Pozisyon: ENA/USDT - LONG
+2024-12-13 19:21:28,756 - Giriş Fiyatı: 0.9819
+2024-12-13 19:21:42,377 - Yeni Pozisyon: ORDI/USDT - LONG
+2024-12-13 19:21:42,378 - Giriş Fiyatı: 35.4
+2024-12-13 19:21:53,009 - Pozisyon Kapatıldı: ENA/USDT
+2024-12-13 19:21:53,010 - Kapatma Nedeni: Stop Loss
+2024-12-13 19:21:53,010 - Giriş Fiyatı: 0.9819
+2024-12-13 19:21:53,010 - Çıkış Fiyatı: 0.9778
+2024-12-13 19:21:53,010 - Kar/Zarar Yüzdesi: -0.41755779610958266%
+2024-12-13 19:21:53,010 - Kar/Zarar: -0.6171402383134815
+2024-12-13 19:21:53,010 - Toplam Kar: -6.7312165099401255
+2024-12-13 19:22:02,302 - Yeni Pozisyon: AAVE/USDT - LONG
+2024-12-13 19:22:02,302 - Giriş Fiyatı: 356.34
+2024-12-13 19:25:33,481 - Pozisyon Kapatıldı: ORDI/USDT
+2024-12-13 19:25:33,481 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:25:33,481 - Giriş Fiyatı: 35.4
+2024-12-13 19:25:33,481 - Çıkış Fiyatı: 35.59
+2024-12-13 19:25:33,481 - Kar/Zarar Yüzdesi: 0.5367231638418216%
+2024-12-13 19:25:33,481 - Kar/Zarar: 0.3361864406779857
+2024-12-13 19:25:33,481 - Toplam Kar: -6.39503006926214
+2024-12-13 19:26:05,876 - Yeni Pozisyon: ENA/USDT - LONG
+2024-12-13 19:26:05,876 - Giriş Fiyatı: 0.9863
+2024-12-13 19:26:21,393 - Yeni Pozisyon: ORDI/USDT - LONG
+2024-12-13 19:26:21,394 - Giriş Fiyatı: 35.47
+2024-12-13 19:28:37,580 - Pozisyon Kapatıldı: AAVE/USDT
+2024-12-13 19:28:37,580 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:28:37,580 - Giriş Fiyatı: 356.34
+2024-12-13 19:28:37,580 - Çıkış Fiyatı: 358.42
+2024-12-13 19:28:37,580 - Kar/Zarar Yüzdesi: 0.5837121849918733%
+2024-12-13 19:28:37,580 - Kar/Zarar: 0.3831284728068898
+2024-12-13 19:28:37,580 - Toplam Kar: -6.0119015964552505
+2024-12-13 19:31:13,904 - Yeni Pozisyon: OP/USDT - LONG
+2024-12-13 19:31:13,905 - Giriş Fiyatı: 2.55
+2024-12-13 19:32:13,285 - Yeni Pozisyon: 1000SATS/USDT - LONG
+2024-12-13 19:32:13,286 - Giriş Fiyatı: 0.0002294
+2024-12-13 19:32:26,623 - Yeni Pozisyon: TON/USDT - LONG
+2024-12-13 19:32:26,623 - Giriş Fiyatı: 6.255
+2024-12-13 19:32:29,066 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:31,479 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:33,888 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:36,831 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:39,270 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:41,720 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:44,174 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:46,627 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:49,543 - Maksimum pozisyon sayısına ulaşıldı: 5
+2024-12-13 19:32:54,159 - Pozisyon Kapatıldı: ENA/USDT
+2024-12-13 19:32:54,159 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:32:54,159 - Giriş Fiyatı: 0.9863
+2024-12-13 19:32:54,159 - Çıkış Fiyatı: 0.9913
+2024-12-13 19:32:54,159 - Kar/Zarar Yüzdesi: 0.506945148534929%
+2024-12-13 19:32:54,159 - Kar/Zarar: 0.3064382033863899
+2024-12-13 19:32:54,159 - Toplam Kar: -5.705463393068861
+2024-12-13 19:33:07,457 - Pozisyon Kapatıldı: ORDI/USDT
+2024-12-13 19:33:07,457 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:33:07,457 - Giriş Fiyatı: 35.47
+2024-12-13 19:33:07,458 - Çıkış Fiyatı: 35.67
+2024-12-13 19:33:07,458 - Kar/Zarar Yüzdesi: 0.5638567803777921%
+2024-12-13 19:33:07,458 - Kar/Zarar: 0.3632929235974125
+2024-12-13 19:33:07,458 - Toplam Kar: -5.342170469471449
+2024-12-13 19:34:51,367 - Pozisyon Kapatıldı: OP/USDT
+2024-12-13 19:34:51,367 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:34:51,367 - Giriş Fiyatı: 2.55
+2024-12-13 19:34:51,367 - Çıkış Fiyatı: 2.566
+2024-12-13 19:34:51,367 - Kar/Zarar Yüzdesi: 0.6274509803921574%
+2024-12-13 19:34:51,367 - Kar/Zarar: 0.4268235294117625
+2024-12-13 19:34:51,368 - Toplam Kar: -4.9153469400596865
+2024-12-13 19:34:51,601 - Pozisyon Kapatıldı: 1000SATS/USDT
+2024-12-13 19:34:51,601 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:34:51,601 - Giriş Fiyatı: 0.0002294
+2024-12-13 19:34:51,601 - Çıkış Fiyatı: 0.0002312
+2024-12-13 19:34:51,601 - Kar/Zarar Yüzdesi: 0.784655623365308%
+2024-12-13 19:34:51,601 - Kar/Zarar: 0.583870967741945
+2024-12-13 19:34:51,601 - Toplam Kar: -4.331475972317741
+2024-12-13 19:43:51,391 - Pozisyon Kapatıldı: TON/USDT
+2024-12-13 19:43:51,391 - Kapatma Nedeni: Kar Alma
+2024-12-13 19:43:51,392 - Giriş Fiyatı: 6.255
+2024-12-13 19:43:51,392 - Çıkış Fiyatı: 6.288
+2024-12-13 19:43:51,392 - Kar/Zarar Yüzdesi: 0.5275779376498859%
+2024-12-13 19:43:51,392 - Kar/Zarar: 0.3270503597122447
+2024-12-13 19:43:51,392 - Toplam Kar: -4.0044256126054965
+2024-12-13 20:07:50,120 - Yeni Pozisyon: ACT/USDT - LONG
+2024-12-13 20:07:50,120 - Giriş Fiyatı: 0.5682
+2024-12-13 20:08:57,574 - Pozisyon Kapatıldı: ACT/USDT
+2024-12-13 20:08:57,574 - Kapatma Nedeni: Stop Loss
+2024-12-13 20:08:57,574 - Giriş Fiyatı: 0.5682
+2024-12-13 20:08:57,574 - Çıkış Fiyatı: 0.5661
+2024-12-13 20:08:57,574 - Kar/Zarar Yüzdesi: -0.36958817317845666%
+2024-12-13 20:08:57,574 - Kar/Zarar: -0.5692185850052782
+2024-12-13 20:08:57,574 - Toplam Kar: -4.573644197610775
+2024-12-13 20:11:53,942 - Yeni Pozisyon: ACT/USDT - LONG
+2024-12-13 20:11:53,942 - Giriş Fiyatı: 0.5686
+2024-12-13 20:13:18,088 - Pozisyon Kapatıldı: ACT/USDT
+2024-12-13 20:13:18,088 - Kapatma Nedeni: Bilinmeyen Neden
+2024-12-13 20:13:18,088 - Giriş Fiyatı: 0.5686
+2024-12-13 20:13:18,088 - Çıkış Fiyatı: 0.5668
+2024-12-13 20:13:18,088 - Kar/Zarar Yüzdesi: -0.31656700668308546%
+2024-12-13 20:13:18,088 - Kar/Zarar: -0.5162504396763897
+2024-12-13 20:13:18,088 - Toplam Kar: -5.0898946372871645
+2024-12-13 20:15:59,480 - Yeni Pozisyon: ACT/USDT - LONG
+2024-12-13 20:15:59,480 - Giriş Fiyatı: 0.5688
+2024-12-13 20:18:12,194 - Pozisyon Kapatıldı: ACT/USDT
+2024-12-13 20:18:12,195 - Kapatma Nedeni: Stop Loss
+2024-12-13 20:18:12,195 - Giriş Fiyatı: 0.5688
+2024-12-13 20:18:12,195 - Çıkış Fiyatı: 0.5665
+2024-12-13 20:18:12,195 - Kar/Zarar Yüzdesi: -0.4043600562587849%
+2024-12-13 20:18:12,195 - Kar/Zarar: -0.6039556962025224
+2024-12-13 20:18:12,195 - Toplam Kar: -5.693850333489687
+2024-12-13 20:35:25,876 - Yeni Pozisyon: HBAR/USDT - LONG
+2024-12-13 20:35:25,876 - Giriş Fiyatı: 0.30256
+2024-12-13 20:40:41,234 - Pozisyon Kapatıldı: HBAR/USDT
+2024-12-13 20:40:41,234 - Kapatma Nedeni: Kar Alma
+2024-12-13 20:40:41,234 - Giriş Fiyatı: 0.30256
+2024-12-13 20:40:41,235 - Çıkış Fiyatı: 0.3041
+2024-12-13 20:40:41,235 - Kar/Zarar Yüzdesi: 0.5089899524061297%
+2024-12-13 20:40:41,235 - Kar/Zarar: 0.30848096245371903
+2024-12-13 20:40:41,235 - Toplam Kar: -5.385369371035968
+2024-12-13 21:23:36,526 - Yeni Pozisyon: ACT/USDT - LONG
+2024-12-13 21:23:36,530 - Giriş Fiyatı: 0.5602
+2024-12-13 21:26:00,211 - Pozisyon Kapatıldı: ACT/USDT
+2024-12-13 21:26:00,211 - Kapatma Nedeni: Stop Loss
+2024-12-13 21:26:00,211 - Giriş Fiyatı: 0.5602
+2024-12-13 21:26:00,211 - Çıkış Fiyatı: 0.5582
+2024-12-13 21:26:00,211 - Kar/Zarar Yüzdesi: -0.35701535166012166%
+2024-12-13 21:26:00,212 - Kar/Zarar: -0.5566583363084636
+2024-12-13 21:26:00,212 - Toplam Kar: -5.942027707344431
+2024-12-13 21:27:50,370 - Yeni Pozisyon: ACT/USDT - LONG
+2024-12-13 21:27:50,370 - Giriş Fiyatı: 0.56
+2024-12-13 21:40:47,164 - Pozisyon Kapatıldı: ACT/USDT
+2024-12-13 21:40:47,174 - Kapatma Nedeni: Kar Alma
+2024-12-13 21:40:47,174 - Giriş Fiyatı: 0.56
+2024-12-13 21:40:47,175 - Çıkış Fiyatı: 0.563
+2024-12-13 21:40:47,175 - Kar/Zarar Yüzdesi: 0.5357142857142663%
+2024-12-13 21:40:47,175 - Kar/Zarar: 0.3351785714285491
+2024-12-13 21:40:47,175 - Toplam Kar: -5.6068491359158825
+2024-12-13 22:15:27,154 - Yeni Pozisyon: DOGE/USDT - LONG
+2024-12-13 22:15:27,155 - Giriş Fiyatı: 0.4011
+2024-12-13 22:30:28,211 - Pozisyon Kapatıldı: DOGE/USDT
+2024-12-13 22:30:28,211 - Kapatma Nedeni: Zaman Aşımı
+2024-12-13 22:30:28,211 - Giriş Fiyatı: 0.4011
+2024-12-13 22:30:28,211 - Çıkış Fiyatı: 0.4015
+2024-12-13 22:30:28,211 - Kar/Zarar Yüzdesi: 0.0997257541760188%
+2024-12-13 22:30:28,212 - Kar/Zarar: -0.10037397157815545
+2024-12-13 22:30:28,212 - Toplam Kar: -5.707223107494038
+2024-12-13 22:32:34,883 - Yeni Pozisyon: DOGE/USDT - LONG
+2024-12-13 22:32:34,883 - Giriş Fiyatı: 0.40245
+2024-12-13 22:47:36,105 - Pozisyon Kapatıldı: DOGE/USDT
+2024-12-13 22:47:36,106 - Kapatma Nedeni: Zaman Aşımı
+2024-12-13 22:47:36,106 - Giriş Fiyatı: 0.40245
+2024-12-13 22:47:36,106 - Çıkış Fiyatı: 0.40273
+2024-12-13 22:47:36,106 - Kar/Zarar Yüzdesi: 0.06957386010684619%
+2024-12-13 22:47:36,106 - Kar/Zarar: -0.1304957137532641
+2024-12-13 22:47:36,106 - Toplam Kar: -5.837718821247302
